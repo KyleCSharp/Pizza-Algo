@@ -1,4 +1,11 @@
-Step 1:Make dough
-step 2:Add tomato sause
-step 3:Add cheese
-Step 4:Cook for 23min at 425 degress
+1. Decide the pizza place
+    1a. Maybe ask friends which place they like
+    1b. Come to an agreement with your friends
+2. Decide what type of pizza I want to order
+3. Call the pizza place 
+4. Order the pizza
+    4a. Pay over phone
+    4b. Pay at door
+5. Wait for delivery
+6. Greet delivery driver
+7. See step 4b if necessary
