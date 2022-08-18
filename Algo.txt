@@ -9,7 +9,7 @@
 5. Wait for delivery
 6. Greet delivery driver
 7. See step 4b if necessary
-8.what is they send you the wrong order
+8.what if they send you the wrong order
     8a. call back and demand a refund
     8b.eat wrong order
 9.be full    
